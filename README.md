@@ -27,4 +27,4 @@ docker run -p 4000:80 -e MODEL_VERSION=2.0.0 -v $(pwd)/output:/app/output/result
 ```
 
 # Project Slides
-[To the Slides 👉](https://www.example.com](https://tome.app/abc-e486/model-development-and-evaluation-clq9v10mc0hlxo3650rl5gt0h)https://tome.app/abc-e486/model-development-and-evaluation-clq9v10mc0hlxo3650rl5gt0h)
+[To the Slides 👋 ](https://www.example.com](https://tome.app/abc-e486/model-development-and-evaluation-clq9v10mc0hlxo3650rl5gt0h)https://tome.app/abc-e486/model-development-and-evaluation-clq9v10mc0hlxo3650rl5gt0h)
